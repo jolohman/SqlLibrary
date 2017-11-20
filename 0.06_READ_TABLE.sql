@@ -1,4 +1,5 @@
 ﻿-- ALL DIFFERENT WAY TO DIFFERENT ASPECTS OF DATA FROM A TABLE
+--Additional Resources are at the bottom of https://docs.microsoft.com/en-us/sql/t-sql/lesson-1-4-reading-the-data-in-a-table
 
 
 -- The basic syntax for reading data from a single table
